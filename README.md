@@ -54,20 +54,21 @@ Most of my day-to-day work is **TypeScript on Next.js** with **Prisma** over Pos
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AntonG87&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonG87&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonG87&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Contribution streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonG87&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=A371F7&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20activity" width="98%" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonG87&theme=github_dark" width="98%" alt="Profile summary" />
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=AntonG87&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonG87&theme=github_dark" alt="Repositories per language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntonG87&theme=github_dark" alt="Most commit language" />
+
+<br />
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonG87&theme=github_dark" alt="Stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntonG87&theme=github_dark&utcOffset=3" alt="Productive time" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=AntonG87&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Contribution streak" />
 
 </div>
 
@@ -75,29 +76,56 @@ Most of my day-to-day work is **TypeScript on Next.js** with **Prisma** over Pos
 
 ### Featured projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/AntonG87/FiaScreen">
-  <img height="112" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonG87&repo=FiaScreen&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="FiaScreen" />
-</a>
-<a href="https://github.com/AntonG87/EvelsonBlog">
-  <img height="112" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonG87&repo=EvelsonBlog&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="EvelsonBlog" />
-</a>
-<a href="https://github.com/AntonG87/NextPizzaRU">
-  <img height="112" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonG87&repo=NextPizzaRU&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="NextPizzaRU" />
-</a>
-<a href="https://github.com/AntonG87/ReactBurger">
-  <img height="112" src="https://github-readme-stats.vercel.app/api/pin/?username=AntonG87&repo=ReactBurger&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="ReactBurger" />
-</a>
+#### [Codearia Academy](https://academy.codearia.com/)
 
-</div>
+Learning platform about AI tooling for developers — courses, guides and hands-on reviews.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[Codearia Academy](https://academy.codearia.com/)** | Learning platform about AI tooling — courses, guides, reviews. | Next.js · TypeScript · Prisma |
-| **[FiaScreen](https://github.com/AntonG87/FiaScreen)** | Screenshot shelf for Windows: new screenshots appear as draggable cards you can drop straight into a terminal, chat or editor. | C# · WPF |
-| **[EvelsonBlog](https://github.com/AntonG87/EvelsonBlog)** | Fullstack blog with role-based access control and an admin area. | Next.js · Prisma · Tailwind |
-| **[NextPizzaRU](https://github.com/AntonG87/NextPizzaRU)** | Food ordering app: auth, product filtering, cart, responsive UI. | Next.js · Prisma · NextAuth |
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=2D3748)
+
+</td>
+<td width="50%" valign="top">
+
+#### [FiaScreen](https://github.com/AntonG87/FiaScreen)
+
+Screenshot shelf for Windows: new screenshots show up as draggable cards you drop straight into a terminal, chat or editor — no folder digging.
+
+![C#](https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=A371F7)
+![WPF](https://img.shields.io/badge/WPF-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Stars](https://img.shields.io/github/stars/AntonG87/FiaScreen?style=flat-square&labelColor=0D1117&color=58A6FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [EvelsonBlog](https://github.com/AntonG87/EvelsonBlog)
+
+Fullstack blog with role-based access control, an admin area and a typed API layer.
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=2D3748)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+</td>
+<td width="50%" valign="top">
+
+#### [NextPizzaRU](https://github.com/AntonG87/NextPizzaRU)
+
+Food ordering app: authentication, product filtering, cart management and a responsive UI.
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-0D1117?style=flat-square&logo=auth0&logoColor=EB5424)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=2D3748)
+
+</td>
+</tr>
+</table>
 
 ---
 
