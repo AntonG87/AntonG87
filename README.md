@@ -72,6 +72,16 @@ Most of my day-to-day work is **TypeScript on Next.js** with **Prisma** over Pos
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonG87/AntonG87/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonG87/AntonG87/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/AntonG87/AntonG87/output/snake-dark.svg" width="98%" alt="Contribution snake eating the contribution grid" />
+</picture>
+
+</div>
+
 ---
 
 ### Featured projects
