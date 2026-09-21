@@ -54,17 +54,18 @@ Most of my day-to-day work is **TypeScript on Next.js** with **Prisma** over Pos
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonG87&theme=github_dark&bg_color=0A0A0A&border_color=2A1410&title_color=FF6B35&text_color=C9D1D9&icon_color=FFC896&chart_color=FF6B35" width="98%" alt="Profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntonG87&theme=github_dark" width="98%" alt="Profile summary" />
 
 <br />
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntonG87&theme=github_dark&bg_color=0A0A0A&border_color=2A1410&title_color=FF6B35&text_color=C9D1D9&icon_color=FFC896&chart_color=FF6B35" alt="Repositories per language" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntonG87&theme=github_dark&bg_color=0A0A0A&border_color=2A1410&title_color=FF6B35&text_color=C9D1D9&icon_color=FFC896&chart_color=FF6B35" alt="Most commit language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonG87&theme=github_dark" alt="Stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntonG87&theme=github_dark" alt="Most commit language" />
 
 <br />
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntonG87&theme=github_dark&bg_color=0A0A0A&border_color=2A1410&title_color=FF6B35&text_color=C9D1D9&icon_color=FFC896&chart_color=FF6B35" alt="Stats" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntonG87&theme=github_dark&bg_color=0A0A0A&border_color=2A1410&title_color=FF6B35&text_color=C9D1D9&icon_color=FFC896&chart_color=FF6B35&utcOffset=3" alt="Productive time" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntonG87&theme=github_dark&utcOffset=3" alt="Productive time" />
+
+<sub>Stats and language charts cover public repositories only — most client work lives in private repos.</sub>
 
 <br /><br />
 
