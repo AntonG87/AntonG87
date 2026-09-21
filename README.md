@@ -115,13 +115,14 @@ Screenshot shelf for Windows: new screenshots show up as draggable cards you dro
 <tr>
 <td width="50%" valign="top">
 
-#### [EvelsonBlog](https://github.com/AntonG87/EvelsonBlog)
+#### [codearia-sieve](https://github.com/AntonG87/codearia-sieve)
 
-Fullstack blog with role-based access control, an admin area and a typed API layer.
+Parses a web page into the state a decision model needs: dates as dates, numbers with units, chunks that fit the model's window. One MCP call, 98.5 % fewer tokens.
 
-![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0A0A0A?style=flat-square&logo=prisma&logoColor=2D3748)
-![Tailwind](https://img.shields.io/badge/Tailwind-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=3178C6)
+![MCP](https://img.shields.io/badge/MCP-server-0A0A0A?style=flat-square&logoColor=white&color=FF6B35)
+![npm](https://img.shields.io/npm/v/codearia-sieve?style=flat-square&labelColor=0A0A0A&color=FF6B35)
+![Stars](https://img.shields.io/github/stars/AntonG87/codearia-sieve?style=flat-square&labelColor=0A0A0A&color=FF6B35)
 
 </td>
 <td width="50%" valign="top">
